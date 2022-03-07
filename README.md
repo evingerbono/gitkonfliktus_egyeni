@@ -1,0 +1,1 @@
+# gitkonfliktus_egyeni
