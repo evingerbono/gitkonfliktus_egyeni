@@ -7,6 +7,7 @@ public class Egyenikonfliktuskezeles {
         
         String nev1="valmai";
         String nev2="masik dolog";
+        int b;
         
     }
     
